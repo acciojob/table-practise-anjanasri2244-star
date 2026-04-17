@@ -1,7 +1,10 @@
 table{
 	background-color: yellow;
-	
+	 margin: 20px auto;
 }
  table, th, tr,  td{
 	 border:1px solid black
  }
+body{
+	text-align:center
+}
